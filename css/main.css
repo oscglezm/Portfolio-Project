@@ -1,0 +1,176 @@
+ 
+  
+ 
+ //---------------------   GLOBAL --------------------------------------
+ 
+body{
+	padding: 40px 0;
+    font-family: 'Open Sans', sans-serif;
+    color: #747704;
+    font-weight: 300;
+}
+
+hr {
+  border-top: 4px solid #bbb;
+}
+
+h1, h4 {
+    text-transform: uppercase;
+}
+
+article{
+    width: 50em;
+}
+
+
+//---------------------   HELPERS --------------------------------------
+
+ 
+.title-super{
+  color: #BCBBBB;
+  margin-top: 40px;
+  font-size: 60px;
+   
+}
+
+ .text-thin {
+    font-weight: 100;
+    }
+
+ .modal-style{
+	margin-right: auto;
+    margin-left: auto;
+	text-align: center;
+} 
+
+ .text-box{
+	 text-align: center;
+ }
+
+   
+.profile {
+  text-align: right;
+  text-transform: uppercase;
+  }
+
+.profile-job {
+  margin: 5px;
+  font-size: 1.429em;
+  color: #40495b;
+}
+
+  
+.modal-profile{
+	width: 300px;
+	height:180px;
+	display: block;
+    margin : 0 auto;
+	padding: 5px;	
+  }
+
+ .profile-logo{
+    margin-top: 20px;
+	border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+
+  
+
+ 
+ /*---------------------   RESPONSIVE --------------------------------------*/
+
+ @media only screen and (max-width: 1200px) {}
+
+ 
+ /*---------------------   MEDIUM DEVICES --------------------------------------*/
+ 
+@media only screen and (max-width: 992px) {
+  .profile{
+    text-align: center;
+	margin-top: 50px;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  .profile-logo2 {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+
+ /*---------------------   SMALL DEVICES --------------------------------------*/
+
+@media only screen and (max-width: 768px) {
+  .profile {
+    text-align: center;
+  }
+  .profile-logo2 {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+ 
+@media only screen and (max-width: 600px) {
+  .profile {
+    text-align: center;
+  }
+
+  .profile-logo2 {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .title-super {
+    font-size: 2.857em;
+  }
+    
+}
+
+ /*--------------------- XTRA  SMALL DEVICES --------------------------------------*/
+ 
+
+@media only screen and (max-width: 480px) {
+  .profile {
+    text-align: center;
+  }
+
+  .profile-logo2 {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .title-super {
+    font-size: 2.857em;
+  }
+   
+}
+
+ /*--------------------- IPHONE RETINA -------------------------------------- */
+ 
+
+@media only screen and (max-width: 360px) {
+  .profile {
+    text-align: center;
+  }
+
+  .profile-logo2 {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .title-super{
+    font-size: 2.857em;
+  }
+}
+
+
+ 
+
+
+ 
