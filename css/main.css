@@ -5,7 +5,7 @@
  
 body{
 	padding: 40px 0;
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Open Sans", sans-serif;
     color: #747704;
     font-weight: 300;
 }
@@ -26,12 +26,11 @@ article{
 //---------------------   HELPERS --------------------------------------
 
  
-.title-super{
-  color: #BCBBBB;
+ .title-super{
+  color:#bcbbbb;
   margin-top: 40px;
   font-size: 60px;
-   
-}
+ }
 
  .text-thin {
     font-weight: 100;
@@ -41,7 +40,7 @@ article{
 	margin-right: auto;
     margin-left: auto;
 	text-align: center;
-} 
+ } 
 
  .text-box{
 	 text-align: center;
