@@ -7,5 +7,5 @@ Responsive website that shows an overview about principal projects developed.
 -  Bootstrap Responsive Framework
 -  Grunt tasks for creating responsive images
   
-#### Project Description:
+
   
