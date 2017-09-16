@@ -1,9 +1,15 @@
 # Portfolio-Project
 This Portfolio has been built for Udacity. 
 
-#### Technologies used:
+#### Technologies implemented:
+  
+-  HTML5 and CSS3
+-  Flexbox, Viewport meta
+-  Bootstrap Responsive Framework
+-  Grunt tasks for creating responsive images
+
+
  
- It was developed using Flexbox, HTML5, CSS, semantic tags, Media Queries, Viewport meta, Bootstrap.
  
   
 #### Project Description
