@@ -1,5 +1,5 @@
 # Portfolio-Project
-Responsive website that shows an overview about principal projects developed. 
+Implemented a responsive website that shows an overview about principal projects developed. 
 
 #### Technologies implemented:
 -  HTML5 and CSS3
